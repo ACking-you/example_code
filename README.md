@@ -8,3 +8,6 @@ When you save more complex markdown text, it will trigger the following bug:
 ![img](./imgs/img2.png)
 
 At this point in time the editor will think it is a binary file, the above image is forced to show the appearance of the text.
+
+## environment
+Compiled environment for the demo:Windows 11
